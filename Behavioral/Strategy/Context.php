@@ -11,7 +11,7 @@ class Context
     /**
      * @var AlgorithmInterface
      */
-    private $algorithm;
+    private AlgorithmInterface $algorithm;
 
     /**
      * Context constructor.
