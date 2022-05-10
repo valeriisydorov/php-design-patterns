@@ -2,12 +2,12 @@
 declare(strict_types=1);
 
 
-namespace DesignPatterns\Behavioral\FactoryMethod;
+namespace DesignPatterns\Creational\FactoryMethod;
 
 
 /**
  * Class Creator
- * @package DesignPatterns\Behavioral\FactoryMethod
+ * @package DesignPatterns\Creational\FactoryMethod
  */
 abstract class Creator
 {

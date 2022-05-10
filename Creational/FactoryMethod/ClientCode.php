@@ -2,8 +2,8 @@
 declare(strict_types=1);
 
 
-use DesignPatterns\Behavioral\FactoryMethod\CreatorOne;
-use DesignPatterns\Behavioral\FactoryMethod\CreatorTwo;
+use DesignPatterns\Creational\FactoryMethod\CreatorOne;
+use DesignPatterns\Creational\FactoryMethod\CreatorTwo;
 
 
 include_once 'Creator.php';
